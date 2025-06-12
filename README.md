@@ -21,21 +21,3 @@ El avance del proyecto está documentado en **tres Jupyter Notebooks**, cada uno
 - [`tercer_avance.ipynb`](https://github.com/nicolasgallu/D.E-PI1/blob/master/PI1/tercer_avance.ipynb):  
   Análisis en profundidad, visualizaciones y conclusiones.
 
----
-
-## ⚙️ Requisitos
-
-- Python 3.10+
-- Jupyter Notebook
-- Librerías necesarias:
-  - `pandas`
-  - `numpy`
-  - `matplotlib`
-  - `seaborn`
-
-### Instalación
-
-Si contás con un archivo `requirements.txt`, podés instalar las dependencias con:
-
-```bash
-pip install -r requirements.txt
